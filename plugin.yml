@@ -1,0 +1,6 @@
+name: spawn
+author: candle#1666
+api: 4.0.0
+main: candle\spawn\Candle
+version: 0.0.1
+website: discord.gg/retronix
